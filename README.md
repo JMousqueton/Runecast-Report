@@ -12,7 +12,7 @@
 
 ## ✨ Demo
 
-<none>
+_none_
 
 ## Prerequisites
 
