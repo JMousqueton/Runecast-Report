@@ -7,9 +7,12 @@
 
 > Generate Runecast report in Excel ile using the API
 
-### 🏠 [Homepage]( )
+### 🏠 Homepage
 
-### ✨ [Demo]( )
+
+## ✨ Demo
+
+<none>
 
 ## Prerequisites
 
@@ -50,4 +53,3 @@ Copyright © 2020 [Julien Mousqueton](https://github.com/jmousqueton).
 This project is [Apache 2.0](https://github.com/JMousqueton/RunecastReport/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
