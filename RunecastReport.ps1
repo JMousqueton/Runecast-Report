@@ -17,7 +17,7 @@
   Version:        2.0
   Author:         Julien Mousqueton
   Creation Date:  01/06/2020
-  Original        vMan.ch
+  Original:       vMan.ch
   Purpose/Change: Initial script development
   Requirement:    Make sure to install ImportExcel module
                   Install-Module ImportExcel
@@ -33,7 +33,7 @@
 $sScriptVersion = "2.0"
 #-----------------------------------------------------------[Functions]------------------------------------------------------------
 # None #
-#-------------------------------------------------------------[Main]---------------------------------------------------------------
+#-----------------------------------------------------------[Execution]------------------------------------------------------------
 
 param
 (
