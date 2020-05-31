@@ -13,7 +13,7 @@
 
 ## Prerequisites
 
-- Make sure to install ImportExcel module
+-   Make sure to install ImportExcel module
 ```sh
 Install-Module ImportExcel
 ```
@@ -28,10 +28,10 @@ Install-Module ImportExcel
 
 👤 **Julien Mousqueton**
 
-* Website: http://www.julienmousqueton.fr
-* Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
-* GitHub: [@jmousqueton](https://github.com/jmousqueton)
-* LinkedIn: [@julienmousqueton](https://linkedin.com/in/julienmousqueton)
+*   Website: [http://www.julienmousqueton.fr](https://www.julienmousqueton.fr)
+*   Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
+*   GitHub: [@jmousqueton](https://github.com/jmousqueton)
+*   LinkedIn: [@julienmousqueton](https://linkedin.com/in/julienmousqueton)
 
 ## 🤝 Contributing
 
