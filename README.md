@@ -1,6 +1,6 @@
 # Welcome to Runecast Report 👋
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)]( )
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)]
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jmousqueton/runecastreport/graphs/commit-activity)
 [![License: Apache 2.0](https://img.shields.io/github/license/jmousqueton/RunecastReport)](https://github.com/JMousqueton/RunecastReport/blob/master/LICENSE)
 [![Twitter: JMousqueton](https://img.shields.io/twitter/follow/JMousqueton.svg?style=social)](https://twitter.com/JMousqueton)
