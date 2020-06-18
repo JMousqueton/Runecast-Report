@@ -30,7 +30,7 @@
 # None #
 #----------------------------------------------------------[Declarations]----------------------------------------------------------
 # Script Version
-$sScriptVersion = "2.0"
+$ScriptVersion = "2.0"
 #-----------------------------------------------------------[Functions]------------------------------------------------------------
 # None #
 #-----------------------------------------------------------[Execution]------------------------------------------------------------
@@ -125,11 +125,9 @@ $header.Add("User-Agent", 'RunecastExtractor/2.0')
                     Name = $affectedObject.Name
                     vcUid = $affectedObject.vcUid
                     moid = $affectedObject.moid
-
         }
        }
     }
-
 
 #Export it all to Excel
 
